@@ -1,0 +1,102 @@
+[
+  {
+    "_id": 1,
+    "shipName": "32IN ACADIA",
+    "screens": [
+      {
+        "_id": 11,
+        "mediaPlayer": "MEDIA PLAYER : 01"
+      },
+
+      {
+        "_id": 12,
+        "mediaPlayer": "MEDIA PLAYER : 02"
+      },
+
+      {
+        "_id": 13,
+        "mediaPlayer": "MEDIA PLAYER : 03"
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "shipName": "59FB BJOERN FOEYN",
+    "screens": [
+      {
+        "_id": 21,
+        "mediaPlayer": "MEDIA PLAYER : 01"
+      },
+
+      {
+        "_id": 22,
+        "mediaPlayer": "MEDIA PLAYER : 02"
+      },
+
+      {
+        "_id": 23,
+        "mediaPlayer": "MEDIA PLAYER : 03"
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "shipName": "352W DOWART DE LAGREE",
+    "screens": [
+      {
+        "_id": 31,
+        "mediaPlayer": "MEDIA PLAYER : 01"
+      },
+
+      {
+        "_id": 32,
+        "mediaPlayer": "MEDIA PLAYER : 02"
+      },
+
+      {
+        "_id": 33,
+        "mediaPlayer": "MEDIA PLAYER : 03"
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "shipName": "323C CHAROLETTE",
+    "screens": [
+      {
+        "_id": 41,
+        "mediaPlayer": "MEDIA PLAYER : 01"
+      },
+
+      {
+        "_id": 42,
+        "mediaPlayer": "MEDIA PLAYER : 02"
+      },
+
+      {
+        "_id": 43,
+        "mediaPlayer": "MEDIA PLAYER : 03"
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "shipName": "90Z ZWAYESTHA OLOA",
+    "screens": [
+      {
+        "_id": 51,
+        "mediaPlayer": "MEDIA PLAYER : 01"
+      },
+
+      {
+        "_id": 52,
+        "mediaPlayer": "MEDIA PLAYER : 02"
+      },
+
+      {
+        "_id": 52,
+        "mediaPlayer": "MEDIA PLAYER : 03"
+      }
+    ]
+  }
+]
